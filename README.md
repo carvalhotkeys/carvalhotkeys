@@ -5,7 +5,7 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
 
   <!-- Front-end Box -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 45%; min-width: 300px; box-sizing: border-box; margin: 10px;">
-    <h3 style="text-align: center;">Front-end</h3>
+    <h3 style="text-align: center;"></h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <div style="text-align: center;">
         <img align="center" alt="cris-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -40,7 +40,7 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
 
   <!-- Back-end Box -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: 45%; min-width: 300px; box-sizing: border-box; margin: 10px;">
-    <h3 style="text-align: center;">Back-end</h3>
+    <h3 style="text-align: center;"></h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <div style="text-align: center;">
         <img align="center" alt="cris-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
