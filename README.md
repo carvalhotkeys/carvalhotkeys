@@ -12,6 +12,8 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
   <img align="center" alt="cris-nodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><label for="NODEJS">NODEJS</label>
   <img align="center" alt="cris-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><label for="GIT">GIT</label>
   <img align="center" alt="cris-gitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><label for="GITHUB">GITHUB</label>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  
 </div>
 
 <!--
