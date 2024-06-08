@@ -12,7 +12,9 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
   <img align="center" alt="cris-nodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><label for="NODEJS">NODEJS</label>
   <img align="center" alt="cris-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><label for="GIT">GIT</label>
   <img align="center" alt="cris-gitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><label for="GITHUB">GITHUB</label>
-  <img align="center" alt="cris-gitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"><label for="GITHUB">DOKER</label>
+  <img align="center" alt="cris-gitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"><label for="GITHUB">DOCKER</label>
+  <img align="center" alt="cris-gitHub" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg"><label for="GITHUB">ANDROID STUDIO</label>
+  
   
 </div>
 
