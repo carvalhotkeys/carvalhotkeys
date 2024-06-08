@@ -74,10 +74,6 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
         <img align="center" alt="cris-gitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
         <label for="DOCKER">DOCKER</label>
       </div>
-      <div style="text-align: center;">
-        <img align="center" alt="cris-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <label for="JAVASCRIPT">JAVASCRIPT</label>
-      </div>
     </div>
   </div>
 </div>
