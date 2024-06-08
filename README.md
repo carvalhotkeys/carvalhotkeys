@@ -28,11 +28,19 @@ Meu [Portfólio](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CS
         <label for="REACT">REACT-NATIVE</label>
       </div>
       <div style="text-align: center;">
+        <img align="center" alt="cris-react" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
+        <label for="REACT">REACT-BOOTSTRAP</label>
+      </div>
+      <div style="text-align: center;">
+        <img align="center" alt="cris-react" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg">
+        <label for="REACT">REACT-NAVIGATION</label>
+      </div>
+      <div style="text-align: center;">
         <img align="center" alt="cris-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <label for="JAVASCRIPT">JAVASCRIPT</label>
       </div>
       <div style="text-align: center;">
-        <img align="center" alt="cris-android-studio" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg">
+        <img align="center" alt="cris-android-studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
         <label for="ANDROID STUDIO">ANDROID STUDIO</label>
       </div>
     </div>
