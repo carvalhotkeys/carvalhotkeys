@@ -303,6 +303,7 @@ Tenho experiência trabalhando com conceitos como:
 Tenho aprofundado meus conhecimentos principalmente em:
 
 ```text
+Python
 Software Engineering
 Software Architecture
 Backend Engineering
