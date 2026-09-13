@@ -11,7 +11,7 @@ Construindo produtos digitais, APIs e sistemas utilizados em ambientes reais.
 📍 Presidente Prudente — SP, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano%20Carvalho-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/carvalho-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-111111?style=flat&logo=googlechrome)](https://carvalhotkeys.github.io/portfolio-carvalhotkeys-HTML_CSS_BOOTSTRAP/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-111111?style=flat&logo=googlechrome)](https://www.andreiapessoaconfeitaria.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-@cris.carvalho92-E4405F?style=flat&logo=instagram)](https://www.instagram.com/cris.carvalho92/)
 
 </div>
